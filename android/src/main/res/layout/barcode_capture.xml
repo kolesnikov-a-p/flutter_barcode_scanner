@@ -62,6 +62,7 @@
             android:background="@android:color/transparent"
             android:text="Cancel"
             android:textAllCaps="false"
+            android:background="#44000099"
             android:textColor="@android:color/white" />
     </RelativeLayout>
 </RelativeLayout>
