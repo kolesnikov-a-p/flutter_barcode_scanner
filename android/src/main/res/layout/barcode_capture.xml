@@ -59,10 +59,9 @@
             android:layout_centerVertical="true"
             android:layout_marginEnd="10dp"
             android:layout_marginRight="10dp"
-            android:background="@android:color/transparent"
+
             android:text="Cancel"
             android:textAllCaps="false"
-            android:background="#44000099"
             android:textColor="@android:color/white" />
     </RelativeLayout>
 </RelativeLayout>
