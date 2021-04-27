@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ok">OK</string>
-    <string name="permission_camera_rationale">Доступ к камере необходим для обнаружения</string>
-    <string name="no_camera_permission">Это приложение не может работать, потому что у него нет разрешения камеры. Теперь приложение завершит работу.</string>
+    <string name="permission_camera_rationale">Для работы приложения необходим доступ к камере.</string>
+    <string name="no_camera_permission">Это приложение не может работать, потому что у него нет доступа к камере.</string>
     <string name="low_storage_error">Зависимости детектора лиц не могут быть загружены из-за низкого объема памяти устройства</string>
     <string name="title_activity_main">Образец считывателя штрих-кодов</string>
     <string name="barcode_header">Нажмите &quot;Прочитать штрих-код&quot; чтобы прочитать штрих-код</string>
